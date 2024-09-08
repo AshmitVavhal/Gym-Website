@@ -1,0 +1,117 @@
+.abt{
+    outline: none;
+    border: 2px solid rgb(146, 230, 146);
+    padding: 5px 15px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    top: 860%;
+    left: 43%;
+}
+
+.abt-headline{
+    position: absolute;
+    color: white;
+    display: block;
+    text-align: center;
+    top: 865%;
+    left: 407px;
+    width: 750px;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.abt-text{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(255, 255, 255); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.1;
+    top: 893%;
+    left: 50%;
+    letter-spacing: 0.8px;
+}
+
+.abt-pfp{
+    position: absolute;
+    justify-content: right; 
+    align-items: right; 
+    top: 910%;
+    left: 55%;
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
+
+.lg-txt{
+    position: absolute;
+    color: white;
+    display: block;
+    text-align: center;
+    top: 908%;
+    left: 25%;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    letter-spacing: -0.9px;
+}
+
+.login-container {
+    position: absolute;
+    padding: 20px;
+    border-radius: 25px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    top: 920%;
+    left: 23%;
+}
+
+.login-container input[type="text"],
+.login-container input[type="email"],
+.login-container input[type="tel"]{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 10px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.login-container select {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 10px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.submit-info{
+    position:absolute;
+    top: 965%;
+    left: 34%;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: inherit;
+    padding: 8px 16px;
+    background: #97FB57;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}

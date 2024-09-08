@@ -1,0 +1,508 @@
+.button6{
+    outline: none;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    top: 689%;
+    left: 44%;
+}
+
+.tag{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: white; 
+    font-size: 48px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 705%;
+    left: 50%;
+}
+
+.membership0 {
+    position: absolute;
+    width: 390px; 
+    height: 550px;       
+    background-color: rgb(255, 255, 255); 
+    top: 722%;
+    left: 8%;
+    border-radius: 25px;
+}
+
+.membership1 {
+    position: absolute;
+    width: 390px; 
+    height: 550px;       
+    background-color: rgb(255, 255, 255); 
+    top: 722%;
+    left: 38%;
+    border-radius: 25px;
+}
+
+.membership2 {
+    position: absolute;
+    width: 390px; 
+    height: 550px;       
+    background-color: rgb(255, 255, 255); 
+    top: 722%;
+    left: 68%;
+    border-radius: 25px;
+}
+
+
+/*Membership1*/
+.mtm{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 34px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 727%;
+    left: 20%;
+}
+
+.price1{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 37px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 739%;
+    left: 20%;
+}
+
+.checkmark13{
+    position: absolute; 
+    top: 752.5%; 
+    left: 16.7%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark14{
+    position: absolute; 
+    top: 759.5%; 
+    left: 15%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark15{
+    position: absolute; 
+    top: 766.5%; 
+    left: 15.5%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.m-info1{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 750.5%;
+    left: 20.5%;
+}
+
+.m-info2{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 757.5%;
+    left: 20.5%;
+}
+
+.m-info3{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 764.5%;
+    left: 20.5%;
+}
+
+.con1{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 773%;
+    left: 20.5%;
+}
+
+.m1{
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    top: 784%;
+    left: 14%;
+    cursor: pointer;
+}
+
+/*Membership2*/
+.mtm2{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 34px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 727%;
+    left: 50%;
+}
+
+.price2{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 37px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 739%;
+    left: 50%;
+}
+
+.checkmark16{
+    position: absolute; 
+    top: 752.5%; 
+    left: 46.7%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark17{
+    position: absolute; 
+    top: 759.5%; 
+    left: 45%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark18{
+    position: absolute; 
+    top: 766.5%; 
+    left: 45.5%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.m-info4{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 750.5%;
+    left: 50.5%;
+}
+
+.m-info5{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 757.5%;
+    left: 50.5%;
+}
+
+.m-info6{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 764.5%;
+    left: 50.5%;
+}
+
+.con2{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 773%;
+    left: 50.5%;
+}
+
+.m2{
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    top: 784%;
+    left: 44%;
+    cursor: pointer;
+}
+
+/*Membership3*/
+.mtm3{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 34px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 727%;
+    left: 80%;
+}
+
+.price3{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 37px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 739%;
+    left: 80%;
+}
+
+.checkmark19{
+    position: absolute; 
+    top: 752.5%; 
+    left: 76.7%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark20{
+    position: absolute; 
+    top: 759.5%; 
+    left: 75%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark21{
+    position: absolute; 
+    top: 766.5%; 
+    left: 75.5%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.m-info7{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 750.5%;
+    left: 80.5%;
+}
+
+.m-info8{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 757.5%;
+    left: 80.5%;
+}
+
+.m-info9{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 764.5%;
+    left: 80.5%;
+}
+
+.con3{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: rgb(0, 0, 0); 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    top: 773%;
+    left: 80.5%;
+}
+
+.m3{
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    top: 784%;
+    left: 74%;
+    cursor: pointer;
+}
+
+.review-1{
+    position: absolute; 
+    top: 812%; 
+    left: 20%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.review-2{
+    position: absolute; 
+    top: 812%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.review-3{
+    position: absolute; 
+    top: 812%; 
+    left: 80%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.review1-text{
+    position: absolute; 
+    top: 820%; 
+    left: 21%; 
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: 15px; 
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.review2-text{
+    position: absolute; 
+    top: 820%; 
+    left: 51%; 
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: 15px; 
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.review3-text{
+    position: absolute; 
+    top: 821%; 
+    left: 81%; 
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: 15px; 
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.review1-pfp{
+    position: absolute; 
+    top: 830%; 
+    left: 20%; 
+    transform: translate(-50%, -50%);
+}
+
+.review2-pfp{
+    position: absolute; 
+    top: 830%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+
+.review3-pfp{
+    position: absolute; 
+    top: 831%; 
+    left: 80%; 
+    transform: translate(-50%, -50%);
+}

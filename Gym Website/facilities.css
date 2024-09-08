@@ -1,0 +1,114 @@
+.quote1{
+    position: absolute; 
+    top: 149%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: 48px; 
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.banner1 {
+    position: absolute;
+    width: 300px; /* Adjust the size as needed */
+    height: 300px; /* Adjust the size as needed */
+    background: url('https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg');
+    background-size: cover;
+    border-radius: 15px;
+    top: 168%; 
+    left: 7%; 
+}
+
+.overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    border-radius: 15px;
+}
+
+.banner2 {
+    position: absolute;
+    width: 300px; /* Adjust the size as needed */
+    height: 300px; /* Adjust the size as needed */
+    background: url('https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-size: cover;
+    border-radius: 15px;
+    top: 168%; 
+    left: 29%; 
+}
+
+.overlay2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    border-radius: 15px;
+}
+
+.banner3 {
+    position: absolute;
+    width: 300px; /* Adjust the size as needed */
+    height: 300px; /* Adjust the size as needed */
+    background: url('https://t4.ftcdn.net/jpg/03/33/91/97/360_F_333919715_R1mDUWPgwB2CRvSCNnvnmtn64gPY40ZL.jpg');
+    background-size: cover;
+    border-radius: 15px;
+    top: 168%; 
+    left: 51%; 
+}
+
+.overlay3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    border-radius: 15px;
+}
+
+.banner4 {
+    position: absolute;
+    width: 300px; /* Adjust the size as needed */
+    height: 300px; /* Adjust the size as needed */
+    background: url('https://www.eventbrite.com/blog/wp-content/uploads/2022/09/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg');
+    background-size: cover;
+    border-radius: 15px;
+    top: 168%; 
+    left: 73%; 
+}
+
+.overlay4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    border-radius: 15px;
+}
+
+h1 {
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+    padding: 0 20px; /* To prevent text overflow */
+}

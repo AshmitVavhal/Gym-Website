@@ -1,0 +1,419 @@
+/*Crossfit*/
+.button2{
+    outline: none;
+    border: 2px solid rgb(146, 230, 146);
+    padding: 5px 15px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    top: 260%;
+    left: 10%;
+}
+
+.cf-title{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: white; 
+    font-size: 48px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: left;
+    line-height: 1.1;
+    top: 278%;
+    left: 30%;
+}
+
+.checkmark1{
+    position: absolute; 
+    top: 293%; 
+    left: 11%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark2{
+    position: absolute; 
+    top: 300%; 
+    left: 11%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark3{
+    position: absolute; 
+    top: 307%; 
+    left: 11%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cm1-text{
+    position: absolute;
+    top: 291.7%; 
+    left: 13%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm2-text{
+    position: absolute;
+    top: 298.5%; 
+    left: 13%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm3-text{
+    position: absolute;
+    top: 305.4%; 
+    left: 13%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cf-image{
+    position: absolute;
+    width: 489px; 
+    height: 700px; 
+    justify-content: right; 
+    align-items: right; 
+    top: 240%;
+    left: 60%;
+}
+
+.cf-image img{
+    height: 100%;
+    width: 100%;
+    align-items: right;
+    justify-content: right;
+    object-fit: contain;
+}
+
+/*Strength Training*/
+.button3{
+    outline: none;
+    border: 2px solid rgb(146, 230, 146);
+    padding: 5px 15px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    top: 365%;
+    left: 42%;
+}
+
+.st-title{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: white; 
+    font-size: 48px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: left;
+    line-height: 1.1;
+    top: 385%;
+    left: 61.5%;
+}
+
+.checkmark4{
+    position: absolute; 
+    top: 403%; 
+    left: 43%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark5{
+    position: absolute; 
+    top: 410%; 
+    left: 43%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark6{
+    position: absolute; 
+    top: 417%; 
+    left: 43%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cm4-text{
+    position: absolute;
+    top: 402%; 
+    left: 45.5%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm5-text{
+    position: absolute;
+    top: 409%; 
+    left: 45.5%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm6-text{
+    position: absolute;
+    top: 416%; 
+    left: 45.5%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.st-image{
+    position: absolute;
+    width: 489px; 
+    height: 700px; 
+    justify-content: right; 
+    align-items: right; 
+    top: 350%;
+    left: 9%;
+}
+
+.st-image img{
+    height: 100%;
+    width: 100%;
+    align-items: right;
+    justify-content: right;
+    object-fit: contain;
+}
+
+/*Personal Training*/
+.button4{
+    outline: none;
+    border: 2px solid rgb(146, 230, 146);
+    padding: 5px 15px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    top: 472%;
+    left: 10%;
+}
+
+.pt-title{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: white; 
+    font-size: 48px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: left;
+    line-height: 1.1;
+    top: 493%;
+    left: 30%;
+}
+
+.checkmark7{
+    position: absolute; 
+    top: 512%; 
+    left: 11%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark8{
+    position: absolute; 
+    top: 519%; 
+    left: 11%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark9{
+    position: absolute; 
+    top: 526%; 
+    left: 11%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cm7-text{
+    position: absolute;
+    top: 511%; 
+    left: 13%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm8-text{
+    position: absolute;
+    top: 518%; 
+    left: 13%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm9-text{
+    position: absolute;
+    top: 525%; 
+    left: 13%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.pt-image{
+    position: absolute;
+    width: 489px; 
+    height: 700px; 
+    justify-content: right; 
+    align-items: right; 
+    top: 460%;
+    left: 60%;
+}
+
+.pt-image img{
+    height: 100%;
+    width: 100%;
+    align-items: right;
+    justify-content: right;
+    object-fit: contain;
+}
+
+/*Member Event*/
+.button5{
+    outline: none;
+    border: 2px solid rgb(146, 230, 146);
+    padding: 5px 15px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 500px;
+    overflow: hidden;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    top: 585%;
+    left: 42%;
+}
+
+.me-title{
+    position: absolute; 
+    transform: translate(-50%, -50%); /* Adjust to perfectly center */
+    color: white; 
+    font-size: 48px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: left;
+    line-height: 1.1;
+    top: 607%;
+    left: 61.5%;
+}
+
+.checkmark10{
+    position: absolute; 
+    top: 627.5%; 
+    left: 43%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark11{
+    position: absolute; 
+    top: 634.5%; 
+    left: 43%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.checkmark12{
+    position: absolute; 
+    top: 641.5%; 
+    left: 43%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cm10-text{
+    position: absolute;
+    top: 626.5%; 
+    left: 45.5%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm11-text{
+    position: absolute;
+    top: 633.5%; 
+    left: 45.5%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.cm12-text{
+    position: absolute;
+    top: 640.5%; 
+    left: 45.5%; 
+    color: white; 
+    font-size: 16px; 
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.me-image{
+    position: absolute;
+    width: 489px; 
+    height: 700px; 
+    justify-content: right; 
+    align-items: right; 
+    top: 570%;
+    left: 9%;
+}
+
+.me-image img{
+    height: 100%;
+    width: 100%;
+    align-items: right;
+    justify-content: right;
+    object-fit: contain;
+}

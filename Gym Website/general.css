@@ -1,0 +1,51 @@
+body{
+    height: 7400px;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(18, 18, 18);
+}
+
+/*Rectangle*/
+.rectangle {
+    position: absolute;
+    width: 1600px; 
+    height: 1200px;       
+    background-color: rgb(105, 153, 105); 
+    top: 680%;
+}
+
+/*Rectangle1*/
+.rectangle1 {
+    position: absolute;
+    width: 390px; 
+    height: 240px;       
+    background-color: rgb(0, 0, 0, 0.3);  
+    top: 805%;
+    left: 8%;
+    border: 4px solid white;
+    border-radius: 25px;
+}
+
+/*Rectangle2*/
+.rectangle2 {
+    position: absolute;
+    width: 390px; 
+    height: 240px;       
+    background-color: rgb(0, 0, 0, 0.3); 
+    top: 805%;
+    left: 38%;
+    border: 4px solid white;
+    border-radius: 25px;
+}
+
+/*Rectangle3*/
+.rectangle3 {
+    position: absolute;
+    width: 390px; 
+    height: 240px;       
+    background-color: rgb(0, 0, 0, 0.3); 
+    top: 805%;
+    left: 68%;
+    border: 4px solid white;
+    border-radius: 25px;
+}
